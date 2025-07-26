@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "arkham-companion"
+rootProject.name = "eldritch-companion"
 include ':app'
