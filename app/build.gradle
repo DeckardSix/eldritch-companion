@@ -5,9 +5,7 @@ plugins {
 
 android {
     namespace = "com.pqt.eldritch"
-
     compileSdk = 36
-    buildToolsVersion "24.0.0"
 
     defaultConfig {
         applicationId "com.pqt.eldritch"
